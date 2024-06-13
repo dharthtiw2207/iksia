@@ -1,2 +1,2 @@
 # iksia
-Event Management Project on .net
+Event Management Project on .net usind C#
