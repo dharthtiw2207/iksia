@@ -12,4 +12,7 @@ using SQL for storing event information, user
 data, and registration details.<br>
 
 Utilized ASP.NET MVC framework for building
-dynamic web pages and handling user request**
+dynamic web pages and handling user request.
+
+# Demo
+Live Site: https://dharthtiw2207.github.io/iksia/
